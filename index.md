@@ -1,2 +1,2 @@
 # Kailas
-![Image of Yaktocat](68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f79616b746f6361742e706e67.png)
+![Image of Yaktocat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjYSMQJToE4z85CJF5Zuey5tWS6FfapjEKMA&s)
